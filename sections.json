@@ -1,0 +1,13 @@
+{
+  "album": "https://photos.app.goo.gl/DsJt9NmLCPujEkpG8",
+  "hero": [401, 63, 236, 392],
+  "sections": [
+    { "key": "prep",      "title": "Preparativos",      "from": 0,   "to": 99,  "covers": [59, 14, 63] },
+    { "key": "llegada",   "title": "La llegada",        "from": 100, "to": 153, "covers": [118, 106, 147] },
+    { "key": "ceremonia", "title": "Ceremonia",         "from": 154, "to": 266, "covers": [253, 236, 182] },
+    { "key": "abrazos",   "title": "Abrazos y ramo",    "from": 267, "to": 371, "covers": [330, 306, 340] },
+    { "key": "vals",      "title": "El vals",           "from": 372, "to": 471, "covers": [392, 402, 415] },
+    { "key": "fiesta",    "title": "La fiesta",         "from": 472, "to": 799, "covers": [649, 664, 623] },
+    { "key": "amanecer",  "title": "Hasta el amanecer", "from": 800, "to": 900, "covers": [880, 871, 861] }
+  ]
+}
